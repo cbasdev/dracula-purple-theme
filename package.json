@@ -1,15 +1,22 @@
 {
   "name": "dracula-purple",
   "displayName": "Dracula Purple",
-  "description": "extending dracula with purple colors",
-  "version": "0.0.1",
+  "description": "Extending dracula with purple colors",
+  "version": "1.0.0",
+  "publisher": "cbasdev",
+  "keywords": [
+    "theme",
+    "cbasdev",
+    "dracula",
+    "purple"
+  ],
   "engines": {
     "vscode": "^1.67.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "img/dracula.ico'",
+  "icon": "img/dracula.ico",
   "author": {
     "name": "Sebastian Velez Montoya",
     "email": "info.cbasdev@gmail.com",
