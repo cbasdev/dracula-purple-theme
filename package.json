@@ -1,21 +1,31 @@
 {
-    "name": "dracula-purple",
-    "displayName": "Dracula Purple",
-    "description": "extending dracula with purple colors",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dracula Purple",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dracula Purple-color-theme.json"
-            }
-        ]
-    }
+  "name": "dracula-purple",
+  "displayName": "Dracula Purple",
+  "description": "extending dracula with purple colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "img/dracula.ico'",
+  "author": {
+    "name": "Sebastian Velez Montoya",
+    "email": "info.cbasdev@gmail.com",
+    "url": "https://github.com/cbasdev"
+  },
+  "repository": {
+    "url": "https://github.com/cbasdev/dracula-purple-theme.git",
+    "type": "git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula Purple-color-theme.json"
+      }
+    ]
+  }
 }
