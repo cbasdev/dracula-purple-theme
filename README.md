@@ -1,5 +1,7 @@
 # Dracula Purple Theme
 
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/33915497/200154179-1bdb3ab3-28b9-4aca-9970-7b8b8490d8fa.png">
+
 ## Description 👨‍💻
 
 Extending dracula with purple colors
