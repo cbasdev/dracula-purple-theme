@@ -4,16 +4,19 @@
 
 ## Description 👨‍💻
 
-Extending dracula with purple colors
+Extending dracula with purple colors, Free and open source 🦄
 
 ## Install a beautiful theme for vscode from the follow link:
 
 [Open in Microsoft Store](https://marketplace.visualstudio.com/items?itemName=cbasdev.dracula-purple&ssr=false#review-details)
 
+
+## Contributying
+
+Clone the repo and update coolors in .vscode/settings.json. 
+The release version is in the folder themes/Dracula Purple-color-theme.json 
+
 ## Contributions 👥
 
 _Developed by:_ \
 _[Sebastian Velez Montoya](https://github.com/cbasdev)_
-
-
-Free and open source 🦄
