@@ -1,6 +1,5 @@
 # Dracula Purple Theme
-
-<img width="854" alt="image" src="https://user-images.githubusercontent.com/33915497/200154179-1bdb3ab3-28b9-4aca-9970-7b8b8490d8fa.png">
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/33915497/201783206-b47fa11c-e016-4154-8c9c-567da9082f5d.png">
 
 ## Description 👨‍💻
 
