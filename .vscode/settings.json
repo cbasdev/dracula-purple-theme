@@ -1175,7 +1175,7 @@
           "meta.type.parameters entity.name.type"
         ],
         "settings": {
-          "foreground": "#FFB86C"
+          "foreground": "#fff86c"
         }
       },
       {
@@ -1191,7 +1191,7 @@
           "constant.character.escape.backslash.regexp"
         ],
         "settings": {
-          "foreground": "#F1FA8C"
+          "foreground": "#f3ff74"
         }
       },
       {
@@ -1419,6 +1419,13 @@
           "variable.other.property.js",
           "variable.other.class.js",
           "variable.other.property.static.js",
+        ],
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": [
           "JSXNested",
           "variable.other.readwrite.js",
           "punctuation.definition.tag.jsx",
@@ -1426,7 +1433,7 @@
           "punctuation.colon"
         ],
         "settings": {
-          "foreground": "#FFFFFF"
+          "foreground": "#ffffff" 
         }
       },
       {
@@ -1439,7 +1446,7 @@
           "meta.attribute-selector.css"
         ],
         "settings": {
-          "foreground": "#40FFD9"
+          "foreground": "#27ffbb" // strings
         }
       },
       {
@@ -1482,7 +1489,7 @@
           "support.constant",
         ],
         "settings": {
-          "foreground": "#f2ff7a",
+          "foreground": "#f2ff7a", // params
           "fontStyle": ""
         }
       },
@@ -1519,11 +1526,18 @@
       {
         "scope": [
           "entity.name.type.class",
+        ],
+        "settings": {
+          "foreground": "#8BE9FD"
+        }
+      },
+      {
+        "scope": [
           "variable.other.property.js",
           "variable.scss"
         ],
         "settings": {
-          "foreground": "#e9ff6f"//this
+          "foreground": "#42e3ff" // here
         }
       },
       {
