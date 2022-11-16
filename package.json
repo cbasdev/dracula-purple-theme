@@ -2,7 +2,7 @@
   "name": "dracula-purple",
   "displayName": "Dracula Purple",
   "description": "Extending dracula with purple colors",
-  "version": "1.2.0",
+  "version": "1.5.0",
   "publisher": "cbasdev",
   "keywords": [
     "theme",
@@ -34,5 +34,9 @@
         "path": "./themes/Dracula Purple-color-theme.json"
       }
     ]
-  }
+  },
+  "scripts": {
+    "compile": "node src/index.js"
+  },
+  "type": "module"
 }
