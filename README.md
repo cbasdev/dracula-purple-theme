@@ -1,6 +1,7 @@
 
 <p align="center">
-<img alt='OpenCoders' src='/img/dracula-purple.svg' width="120"/>
+<img alt='OpenCoders' src='https://user-images.githubusercontent.com/33915497/214760369-5c078b43-fdab-4cdd-adfe-ad905a64b5a5.png' width="120"/>
+
 </p>
 <h1 align="center">Dracula Purple Theme</h1>
 
