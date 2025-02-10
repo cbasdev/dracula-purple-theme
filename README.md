@@ -1,4 +1,3 @@
-<img width="324" alt="image" src="https://github.com/user-attachments/assets/4435c173-19e1-4935-ad3b-b5487be13a00" />
 <p align="center">
 <img alt='OpenCoders' src='https://user-images.githubusercontent.com/33915497/214760369-5c078b43-fdab-4cdd-adfe-ad905a64b5a5.png' width="120"/>
 
