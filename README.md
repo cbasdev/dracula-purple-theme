@@ -1,4 +1,4 @@
-
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/4435c173-19e1-4935-ad3b-b5487be13a00" />
 <p align="center">
 <img alt='OpenCoders' src='https://user-images.githubusercontent.com/33915497/214760369-5c078b43-fdab-4cdd-adfe-ad905a64b5a5.png' width="120"/>
 
@@ -46,7 +46,9 @@ The release version is in the folder themes/Dracula Purple-color-theme.json
 
 ### Author
 
-<img src="https://user-images.githubusercontent.com/33915497/214758041-022d5c36-c55a-4757-9fc2-a2bae492fdd3.png"  width="70"/>
+<a href="https://github.com/cbasdev">
+<img src="https://github.com/user-attachments/assets/788b030b-5984-42c7-9b2a-8042ed6dcac7"  width="70"/>
+</a>
 
 
 _[Sebastian Velez Montoya](https://github.com/cbasdev)_
