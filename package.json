@@ -2,7 +2,7 @@
   "name": "dracula-purple",
   "displayName": "Dracula Purple",
   "description": "Extending dracula with purple colors",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "publisher": "cbasdev",
   "keywords": [
     "theme",
@@ -36,7 +36,9 @@
     ]
   },
   "scripts": {
-    "compile": "node src/index.js"
+    "compile": "node src/index.js",
+    "package": "npm run compile && vsce package",
+    "publish": "vsce publish"
   },
   "type": "module"
 }

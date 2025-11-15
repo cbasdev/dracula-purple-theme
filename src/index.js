@@ -1,5 +1,5 @@
-import settings from '../.vscode/settings.json' assert { type: 'json' };
-import dist from '../themes/Dracula Purple-color-theme.json' assert { type: 'json' };
+import settings from '../.vscode/settings.json' with { type: 'json' };
+import dist from '../themes/Dracula Purple-color-theme.json' with { type: 'json' };
 import fs from 'fs'
 
 const colorCustomizations =  settings["workbench.colorCustomizations"]

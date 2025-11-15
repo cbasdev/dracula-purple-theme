@@ -19,13 +19,12 @@
     "button.secondaryBackground": "#282a36",
     "button.secondaryForeground": "#f8f8f2",
     "button.secondaryHoverBackground": "#343746",
-    "debugToolBar.background": "#21222c",
     "diffEditor.insertedTextBackground": "#50fa7b20",
     "diffEditor.removedTextBackground": "#ff555550",
     "dropdown.background": "#343746",
     "dropdown.border": "#191a21",
     "dropdown.foreground": "#f8f8f2",
-    "editor.background": "#1f222e",
+    "editor.background": "#0f1323",
     "editor.findMatchBackground": "#ffb3ed",
     "editor.findMatchHighlightBackground": "#ffffff40",
     "editor.findRangeHighlightBackground": "#44475a75",
@@ -196,7 +195,9 @@
     "titleBar.activeForeground": "#f8f8f2",
     "titleBar.inactiveBackground": "#242729",
     "titleBar.inactiveForeground": "#6272a4",
-    "walkThrough.embeddedEditorBackground": "#21222c"
+    "walkThrough.embeddedEditorBackground": "#21222c",
+    "debugToolBar.background": "#000000",
+    "debugToolBar.border": "#ff6e6e"
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
